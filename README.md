@@ -37,8 +37,7 @@ Access application on port `8050`
 Build docker file
 
 ```sh
-cd dillinger
-docker build -t <youruser>/dillinger:${package.json.version} .
+docker build --tag dash-app .
 ```
 
 
