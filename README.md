@@ -27,6 +27,9 @@ pip install -r ./requirements.txt
 ```
 Access application on port `8050`
 ```sh
+python app.py
+```
+```sh
 127.0.0.1:8050 or <host-system-ip>:8050
 ```
 ## Docker
