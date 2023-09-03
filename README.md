@@ -43,8 +43,8 @@ docker build -t <youruser>/dillinger:${package.json.version} .
 
 
 
-## License
+## About Author
 
-MIT
+Ajay Kumar [M21AIE208] is the student of IIT-jhodpur and currenlty enrolled in Executive M.tech in Artificial Intelligence program
 
-**Free Software !**
+** It's a Free Software !**
