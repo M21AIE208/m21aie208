@@ -47,4 +47,4 @@ docker build -t <youruser>/dillinger:${package.json.version} .
 
 MIT
 
-**Free Software, Hell Yeah!**
+**Free Software !**
