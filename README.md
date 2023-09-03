@@ -25,10 +25,11 @@ Install python dependencies
 ```sh
 pip install -r ./requirements.txt
 ```
-Access application on port `8050`
+Run application using
 ```sh
 python app.py
 ```
+Access application on port `8050`
 ```sh
 127.0.0.1:8050 or <host-system-ip>:8050
 ```
